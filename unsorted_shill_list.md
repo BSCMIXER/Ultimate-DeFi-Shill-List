@@ -1,6 +1,8 @@
 
 Unverified list contains uniswap / bsc chats
 
+## Please create a PR (Pull request) if you have any input / changes!
+
 [@Aavesome](https://t.me/Aavesome)
 
 [@acmecrypto](https://t.me/acmecrypto)
